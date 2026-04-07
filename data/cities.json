@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "96c1",
+      "cityName": "Stockholm",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-02-23T18:54:24.008Z",
+      "notes": "I dream of living there",
+      "position": {
+        "lat": "59.286674003771786",
+        "lng": "18.062275210150496"
+      }
+    },
+    {
+      "id": "1f28",
+      "cityName": "Valer",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2026-02-23T19:02:34.877Z",
+      "notes": "",
+      "position": {
+        "lat": "60.887320449573124",
+        "lng": "12.052106071872386"
+      }
+    },
+    {
+      "id": "154f",
+      "cityName": "Sandviken",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-02-24T11:09:50.029Z",
+      "notes": "",
+      "position": {
+        "lat": "60.725954738542754",
+        "lng": "16.34811154892916"
+      }
+    }
+  ]
+}

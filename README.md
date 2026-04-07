@@ -1,8 +1,9 @@
-# React + Vite
+# WorldWise
+WorldWise is a personal travel tracker created using Reacts.js designed for explorers who want to keep a digital record of their journeys. This app allows users to click on any location on the map and add it to their list of visited places.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features
+- User authentication
+- A map where users can click on any location that triggers a from for adding a new item to the list
+- Get Position button that fetches the user's real-time coordinates to center the map on their current spot
+- A list of visited cities
+- A list of visited countries that is generated automatically based on the list of visited cities
